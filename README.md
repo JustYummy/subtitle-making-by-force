@@ -1,5 +1,5 @@
-# Making Subtitle With Force 
-making subtitle form English subtitle to Chinese&amp;English subtitle used google Translate.
+# Make Subtitle With Force 
+make subtitle form English subtitle to Chinese&amp;English subtitle used google Translate.
 
 ## What I have done?
 
@@ -81,4 +81,5 @@ Alfter that you will receive the file path. Of cause it in the same folder as th
 <img src="https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic2.png" width = "600" alt="pic2" align=center />
 And the output file like this:
 
-![pic3](https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/versusPic.png)
+![pic3](https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/versusPic3.png)
+
