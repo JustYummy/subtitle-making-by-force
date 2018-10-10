@@ -36,7 +36,6 @@ produces an extreme
 00:08:22,040 --> 00:08:24,630
 amount of magnetic energy.
 ```
-https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic3.png
 
 4. Inside the bracket, it's some background music hint, we can remove it.
 
