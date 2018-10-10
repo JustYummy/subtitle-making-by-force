@@ -36,7 +36,7 @@ produces an extreme
 00:08:22,040 --> 00:08:24,630
 amount of magnetic energy.
 ```
-
+https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic3.png
 
 4. Inside the bracket, it's some background music hint, we can remove it.
 
@@ -81,4 +81,4 @@ Alfter that you will receive the file path. Of cause it in the same folder as th
 <img src="https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic2.png" width = "600" alt="pic2" align=center />
 And the output file like this:
 
-![pic3](https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic3.png)
+![pic3](https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/versusPic.png)
