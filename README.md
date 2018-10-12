@@ -72,11 +72,12 @@ Ready for activation.
 ## How to use?
 Run the script on the CMD like this:
 ```
-python3 scriptPath inputSubtitlePath
+python3 scriptPath inputSubt
+lePath
 ```
 
 <img src="https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic.png" width = "600" alt="pic" align=center />
-Alfter that you will receive the file path. Of cause it in the same folder as the input file path.
+Alfter that you will receive the file path. Of cause it's in the same folder as the input file path.
 <img src="https://github.com/JustYummy/subtitle-making-with-force/blob/master/Pic/pic2.png" width = "600" alt="pic2" align=center />
 And the output file like this:
 
