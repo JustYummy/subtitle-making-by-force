@@ -1,4 +1,4 @@
-# Make Subtitle With Force 
+# Make Subtitle By Force 
 make subtitle form English subtitle to Chinese&amp;English subtitle used google Translate.
 
 ## What I have done?
